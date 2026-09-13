@@ -145,3 +145,7 @@ button{cursor:pointer}
   .filter-panel.open{display:block;position:fixed;inset:74px 14px 14px;z-index:920;background:var(--cream);border:1px solid var(--line);border-radius:28px;padding:18px 24px;overflow:auto;box-shadow:var(--shadow)}
   .filter-panel.open .filter-close{display:grid}
 }
+/* Fix Vietnamese characters in leadership names */
+.leadership-card h3{
+  font-family:Arial,sans-serif;
+}
