@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">AURA image placeholder</title>
+  <desc id="desc">Warm AURA branded image placeholder.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7A0A2"/>
+      <stop offset="0.55" stop-color="#F3AB52"/>
+      <stop offset="1" stop-color="#F4C335"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#g)"/>
+  <circle cx="970" cy="180" r="150" fill="#D1295D" opacity="0.9"/>
+  <rect x="110" y="570" width="430" height="170" rx="28" fill="#155D9C" opacity="0.9"/>
+  <text x="90" y="190" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="132" fill="#F8620D">AURA</text>
+  <text x="92" y="280" font-family="Arial, sans-serif" font-size="34" fill="#171717">Fashion : fitted to reality</text>
+</svg>

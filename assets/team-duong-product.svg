@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract human figure for Bùi Hải Dương</title>
+  <desc id="desc">A clean AURA editorial portrait icon in orange, yellow and cream.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8620D"/><stop offset="1" stop-color="#F4C335"/></linearGradient></defs>
+  <rect width="720" height="720" rx="64" fill="url(#bg)"/>
+  <circle cx="360" cy="286" r="184" fill="#F4F2DA"/>
+  <ellipse cx="360" cy="290" rx="113" ry="141" fill="#E5A17A"/>
+  <path d="M245 257c10-104 55-159 118-159 64 0 107 46 118 143-33-25-68-66-83-98-31 48-81 87-153 114z" fill="#2A201D"/>
+  <circle cx="319" cy="302" r="9" fill="#171717"/><circle cx="402" cy="302" r="9" fill="#171717"/>
+  <path d="M328 359c19 13 43 13 63 0" fill="none" stroke="#8E413B" stroke-width="9" stroke-linecap="round"/>
+  <path d="M170 720c12-171 82-268 190-268s178 97 190 268z" fill="#155D9C"/>
+  <path d="M278 470l82 92 82-92" fill="#F4F2DA"/>
+  <circle cx="360" cy="603" r="30" fill="#F4C335"/>
+</svg>

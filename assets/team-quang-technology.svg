@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract human figure for Nguyễn Trần Quang</title>
+  <desc id="desc">A clean AURA editorial portrait icon in cobalt, orange and cream.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#155D9C"/><stop offset="1" stop-color="#59A4D8"/></linearGradient></defs>
+  <rect width="720" height="720" rx="64" fill="url(#bg)"/>
+  <circle cx="360" cy="284" r="186" fill="#F4F2DA"/>
+  <ellipse cx="360" cy="288" rx="115" ry="142" fill="#D89A72"/>
+  <path d="M242 267c5-110 53-170 121-170 59 0 104 39 119 115-43-7-87-31-116-65-24 53-67 91-124 120z" fill="#171717"/>
+  <path d="M263 313c29-17 58-16 86 0M371 313c28-16 57-17 86 0" fill="none" stroke="#171717" stroke-width="9" stroke-linecap="round"/>
+  <rect x="270" y="285" width="83" height="59" rx="25" fill="none" stroke="#171717" stroke-width="9"/><rect x="367" y="285" width="83" height="59" rx="25" fill="none" stroke="#171717" stroke-width="9"/><path d="M353 309h14" stroke="#171717" stroke-width="9"/>
+  <path d="M329 364c20 11 42 11 62 0" fill="none" stroke="#7B382E" stroke-width="9" stroke-linecap="round"/>
+  <path d="M169 720c12-170 82-268 191-268s179 98 191 268z" fill="#F8620D"/>
+  <path d="M282 468l78 99 78-99" fill="#F4F2DA"/>
+</svg>

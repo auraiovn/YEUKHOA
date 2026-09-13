@@ -1,0 +1,460 @@
+[
+  {
+    "path": "assets/about-aura-bag-hd.webp",
+    "exists": true,
+    "bytes": 24850,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/app.js",
+    "exists": true,
+    "bytes": 21098,
+    "referenced_by": [
+      "about.html",
+      "blog-colour.html",
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "blog.html",
+      "cart.html",
+      "categories.html",
+      "checkout.html",
+      "confirmation.html",
+      "contact.html",
+      "enterprise.html",
+      "faq.html",
+      "index.html",
+      "product.html",
+      "returns.html",
+      "shipping.html"
+    ]
+  },
+  {
+    "path": "assets/aura-story-kinetic-hd.mp4",
+    "exists": true,
+    "bytes": 1701414,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/aura-story-poster-hd.webp",
+    "exists": true,
+    "bytes": 42214,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/aura-story.wav",
+    "exists": true,
+    "bytes": 1291968,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-accessories.webp",
+    "exists": true,
+    "bytes": 23502,
+    "referenced_by": [
+      "assets/app.js",
+      "blog-colour.html",
+      "blog.html",
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-bags.webp",
+    "exists": true,
+    "bytes": 46636,
+    "referenced_by": [
+      "assets/app.js",
+      "categories.html",
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-blue-accessories.webp",
+    "exists": true,
+    "bytes": 11988,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/campaign-feedback.webp",
+    "exists": true,
+    "bytes": 40886,
+    "referenced_by": [
+      "assets/app.js",
+      "index.html",
+      "product.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-guide.webp",
+    "exists": true,
+    "bytes": 37032,
+    "referenced_by": [
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "blog.html",
+      "index.html",
+      "product.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-hero.webp",
+    "exists": true,
+    "bytes": 35254,
+    "referenced_by": [
+      "assets/app.js",
+      "blog-colour.html",
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "blog.html",
+      "cart.html",
+      "categories.html",
+      "checkout.html",
+      "confirmation.html",
+      "contact.html",
+      "enterprise.html",
+      "faq.html",
+      "index.html",
+      "product.html",
+      "returns.html",
+      "shipping.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-lifestyle.webp",
+    "exists": true,
+    "bytes": 3366,
+    "referenced_by": [
+      "blog-colour.html",
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "blog.html",
+      "cart.html",
+      "categories.html",
+      "checkout.html",
+      "confirmation.html",
+      "contact.html",
+      "enterprise.html",
+      "faq.html",
+      "product.html",
+      "returns.html",
+      "shipping.html"
+    ]
+  },
+  {
+    "path": "assets/campaign-shoes.webp",
+    "exists": true,
+    "bytes": 48652,
+    "referenced_by": [
+      "assets/app.js",
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/editorial-men-reference.webp",
+    "exists": true,
+    "bytes": 30026,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/editorial-women-reference.webp",
+    "exists": true,
+    "bytes": 28166,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/feedback-shoe-aura.webp",
+    "exists": true,
+    "bytes": 49136,
+    "referenced_by": [
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/guide-camera-visual.mp4",
+    "exists": true,
+    "bytes": 588389,
+    "referenced_by": [
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "index.html",
+      "product.html"
+    ]
+  },
+  {
+    "path": "assets/hello-team-visual.mp4",
+    "exists": true,
+    "bytes": 234743,
+    "referenced_by": [
+      "contact.html"
+    ]
+  },
+  {
+    "path": "assets/image-fallback.svg",
+    "exists": true,
+    "bytes": 916,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/manifest.json",
+    "exists": true,
+    "bytes": 7384,
+    "referenced_by": [
+      "README.md"
+    ]
+  },
+  {
+    "path": "assets/mirror-visual-guide.mp4",
+    "exists": true,
+    "bytes": 247683,
+    "referenced_by": [
+      "enterprise.html"
+    ]
+  },
+  {
+    "path": "assets/portrait-an.webp",
+    "exists": true,
+    "bytes": 9154,
+    "referenced_by": [
+      "contact.html",
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/portrait-linh.webp",
+    "exists": true,
+    "bytes": 8630,
+    "referenced_by": [
+      "contact.html",
+      "index.html",
+      "product.html"
+    ]
+  },
+  {
+    "path": "assets/portrait-mai.webp",
+    "exists": true,
+    "bytes": 8222,
+    "referenced_by": [
+      "contact.html",
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/product-cobalt-knit.webp",
+    "exists": true,
+    "bytes": 17466,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/product-coral-blazer.webp",
+    "exists": true,
+    "bytes": 17156,
+    "referenced_by": [
+      "assets/app.js",
+      "index.html"
+    ]
+  },
+  {
+    "path": "assets/product-ivory-set.webp",
+    "exists": true,
+    "bytes": 12986,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/product-sand-blazer.webp",
+    "exists": true,
+    "bytes": 15406,
+    "referenced_by": [
+      "assets/app.js",
+      "blog-fit-guide.html",
+      "blog.html",
+      "index.html",
+      "product.html"
+    ]
+  },
+  {
+    "path": "assets/product-stone-knit.webp",
+    "exists": true,
+    "bytes": 14798,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/product-visual-film.mp4",
+    "exists": true,
+    "bytes": 240165,
+    "referenced_by": [
+      "product.html"
+    ]
+  },
+  {
+    "path": "assets/smart-mirror.webp",
+    "exists": true,
+    "bytes": 45846,
+    "referenced_by": [
+      "blog.html",
+      "enterprise.html"
+    ]
+  },
+  {
+    "path": "assets/styles.css",
+    "exists": true,
+    "bytes": 34809,
+    "referenced_by": [
+      "about.html",
+      "blog-colour.html",
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "blog.html",
+      "cart.html",
+      "categories.html",
+      "checkout.html",
+      "confirmation.html",
+      "contact.html",
+      "enterprise.html",
+      "faq.html",
+      "index.html",
+      "product.html",
+      "returns.html",
+      "shipping.html"
+    ]
+  },
+  {
+    "path": "assets/team-binh-marketing.svg",
+    "exists": true,
+    "bytes": 1137,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/team-collage.webp",
+    "exists": true,
+    "bytes": 44044,
+    "referenced_by": [
+      "contact.html"
+    ]
+  },
+  {
+    "path": "assets/team-duong-product.svg",
+    "exists": true,
+    "bytes": 1107,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/team-hoang-finance.svg",
+    "exists": true,
+    "bytes": 1104,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/team-linh-ceo.svg",
+    "exists": true,
+    "bytes": 1153,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/team-quang-technology.svg",
+    "exists": true,
+    "bytes": 1352,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/team-tam-operations.svg",
+    "exists": true,
+    "bytes": 1042,
+    "referenced_by": [
+      "about.html"
+    ]
+  },
+  {
+    "path": "assets/try-cobalt-knit-alpha.png",
+    "exists": true,
+    "bytes": 434199,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/try-coral-blazer-alpha.png",
+    "exists": true,
+    "bytes": 444581,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/try-men-sand-blazer-alpha.png",
+    "exists": true,
+    "bytes": 586882,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/try-men-stone-knit-alpha.png",
+    "exists": true,
+    "bytes": 554475,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/try-women-ivory-taupe-alpha.png",
+    "exists": true,
+    "bytes": 339909,
+    "referenced_by": [
+      "assets/app.js"
+    ]
+  },
+  {
+    "path": "assets/tryon.js",
+    "exists": true,
+    "bytes": 7196,
+    "referenced_by": [
+      "about.html",
+      "blog-colour.html",
+      "blog-fit-guide.html",
+      "blog-virtual-tryon.html",
+      "blog.html",
+      "cart.html",
+      "categories.html",
+      "checkout.html",
+      "confirmation.html",
+      "contact.html",
+      "enterprise.html",
+      "faq.html",
+      "index.html",
+      "product.html",
+      "returns.html",
+      "shipping.html"
+    ]
+  }
+]

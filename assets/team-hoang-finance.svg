@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract human figure for Lê Huy Hoàng</title>
+  <desc id="desc">A clean AURA editorial portrait icon in orange, cobalt and cream.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#F3AB52"/><stop offset="1" stop-color="#F8620D"/></linearGradient></defs>
+  <rect width="720" height="720" rx="64" fill="url(#bg)"/>
+  <circle cx="360" cy="286" r="184" fill="#F4F2DA"/>
+  <ellipse cx="360" cy="290" rx="113" ry="141" fill="#D89670"/>
+  <path d="M245 258c8-104 52-161 119-161 72 0 112 52 119 147-41-12-79-43-105-88-29 46-72 80-133 102z" fill="#211A18"/>
+  <circle cx="319" cy="303" r="9" fill="#171717"/><circle cx="402" cy="303" r="9" fill="#171717"/>
+  <path d="M327 360c21 11 45 11 66 0" fill="none" stroke="#79382E" stroke-width="9" stroke-linecap="round"/>
+  <path d="M168 720c13-171 83-268 192-268s179 97 192 268z" fill="#171717"/>
+  <path d="M280 469l80 98 80-98" fill="#F4F2DA"/>
+  <path d="M350 564h20l13 156h-46z" fill="#D1295D"/>
+</svg>

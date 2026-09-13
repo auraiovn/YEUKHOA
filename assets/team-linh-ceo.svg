@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract human figure for Nguyễn Thuỳ Linh</title>
+  <desc id="desc">A clean AURA editorial portrait icon in orange, pink and cream.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4C335"/><stop offset="1" stop-color="#E7A0A2"/></linearGradient>
+  </defs>
+  <rect width="720" height="720" rx="64" fill="url(#bg)"/>
+  <circle cx="360" cy="286" r="184" fill="#F4F2DA"/>
+  <path d="M213 302c0-124 60-202 147-202 92 0 151 77 151 202v74H213z" fill="#171717"/>
+  <ellipse cx="360" cy="288" rx="112" ry="137" fill="#F2B189"/>
+  <path d="M242 267c4-109 50-169 120-169 76 0 126 67 126 176-38-29-72-67-88-111-25 48-78 86-158 104z" fill="#171717"/>
+  <circle cx="319" cy="298" r="9" fill="#171717"/><circle cx="402" cy="298" r="9" fill="#171717"/>
+  <path d="M327 349c20 17 45 17 66 0" fill="none" stroke="#9B3D49" stroke-width="10" stroke-linecap="round"/>
+  <path d="M178 720c15-171 84-268 182-268s167 97 182 268z" fill="#D1295D"/>
+  <path d="M286 464l74 105 74-105" fill="#F4F2DA"/>
+</svg>

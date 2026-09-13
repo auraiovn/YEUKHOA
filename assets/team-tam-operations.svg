@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract human figure for Lê Thanh Tâm</title>
+  <desc id="desc">A clean AURA editorial portrait icon in cream, cobalt and orange.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4F2DA"/><stop offset="1" stop-color="#F3AB52"/></linearGradient></defs>
+  <rect width="720" height="720" rx="64" fill="url(#bg)"/>
+  <circle cx="360" cy="286" r="184" fill="#D1295D"/>
+  <ellipse cx="360" cy="290" rx="113" ry="141" fill="#C98764"/>
+  <path d="M244 256c9-105 57-160 122-160 71 0 111 54 116 150-42-9-83-42-111-88-24 46-63 78-127 98z" fill="#171717"/>
+  <path d="M304 304h31m50 0h31" stroke="#171717" stroke-width="11" stroke-linecap="round"/>
+  <path d="M329 361c20 11 43 11 63 0" fill="none" stroke="#7D382E" stroke-width="9" stroke-linecap="round"/>
+  <path d="M168 720c13-171 83-268 192-268s179 97 192 268z" fill="#155D9C"/>
+  <path d="M280 469l80 98 80-98" fill="#F4F2DA"/>
+</svg>

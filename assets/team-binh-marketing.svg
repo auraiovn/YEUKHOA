@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract human figure for Lê Gia Bình</title>
+  <desc id="desc">A clean AURA editorial portrait icon in pink, yellow and cream.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#D1295D"/><stop offset="1" stop-color="#F3AB52"/></linearGradient></defs>
+  <rect width="720" height="720" rx="64" fill="url(#bg)"/>
+  <circle cx="360" cy="286" r="184" fill="#F4F2DA"/>
+  <path d="M227 314c0-139 52-218 136-218 92 0 143 82 143 218v83H227z" fill="#251B1B"/>
+  <ellipse cx="360" cy="289" rx="110" ry="139" fill="#E7AA82"/>
+  <path d="M251 260c19-105 60-162 113-162 59 0 102 54 119 151-42-21-78-60-98-105-24 46-66 84-134 116z" fill="#251B1B"/>
+  <circle cx="320" cy="300" r="9" fill="#171717"/><circle cx="402" cy="300" r="9" fill="#171717"/>
+  <path d="M329 354c20 16 43 16 63 0" fill="none" stroke="#A34151" stroke-width="10" stroke-linecap="round"/>
+  <path d="M169 720c13-170 83-268 191-268s178 98 191 268z" fill="#F4C335"/>
+  <path d="M279 469l81 97 81-97" fill="#F4F2DA"/>
+</svg>
